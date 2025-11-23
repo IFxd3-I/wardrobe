@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "felpa bianca",
+        "categoria": "felpe",
+        "colore": "bianco",
+        "stagione": "inverno"
+    },
+    {
+        "nome": "jeans blu",
+        "categoria": "pantaloni",
+        "colore": "blu",
+        "stagione": "tutte"
+    },
+    {
+        "nome": "maglietta bianca",
+        "categoria": "magliette",
+        "colore": "bianco",
+        "stagione": "estate"
+    },
+    {
+        "nome": "giacca nera",
+        "categoria": "giacche",
+        "colore": "nero",
+        "stagione": "inverno"
+    },
+    {
+        "nome": "scarpe da ginnastica rosse",
+        "categoria": "scarpe",
+        "colore": "rosso",
+        "stagione": "tutte"
+    }
+]
