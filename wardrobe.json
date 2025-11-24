@@ -28,5 +28,23 @@
         "categoria": "scarpe",
         "colore": "rosso",
         "stagione": "tutte"
+    },
+    {
+        "nome": "cappotto grigio",
+        "categoria": "cappotti",
+        "colore": "grigio",
+        "stagione": "inverno"
+    },
+    {
+        "nome": "gonna nera",
+        "categoria": "giacche",
+        "colore": "nero",
+        "stagione": "estate"
+    },
+    {
+        "nome": "camicia azzurra",
+        "categoria": "felpe",
+        "colore": "azzurro",
+        "stagione": "tutte"
     }
 ]
